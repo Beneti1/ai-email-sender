@@ -1,0 +1,26 @@
+{
+  "name": "ai-email-sender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beneti1/ai-email-sender.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beneti1/ai-email-sender/issues"
+  },
+  "homepage": "https://github.com/Beneti1/ai-email-sender#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "node-cron": "^4.1.0",
+    "nodemailer": "^7.0.3",
+    "openai": "^5.1.0"
+  }
+}
